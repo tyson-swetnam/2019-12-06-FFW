@@ -1,7 +1,7 @@
 ---?video=
 
 @snap[north span-100 text-center]
-![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
+![GRAPHQL](/assets/imagery/cyverse_cmyk.png height=100)
 @fa[quote-graphql font-montserrat text-white text-11](Bring Your Favorite Software and Environments to the VICE Workbench) 
 @fa[quote-graphql font-montserrat text-white text-09](December 06, 2019)
 @fa[quote-graphql font-montserrat text-white text-09](Tyson L. Swetnam) 
