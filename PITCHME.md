@@ -12,19 +12,33 @@
 @snap[north]
 @fa[quote-graphql font-montserrat text-black text-14](Key Concepts)
 @snapend
+@snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
+@ul
+- Data Science Workbenches
+- Bring your own data
+- Bring your own containers
+- Sharing and publishing your research objects
+@ulend
+@snapend
+
+--- 
 
 @snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
 @ul
 
-##### What 
+##### What slides
 - Data Intensive Science
 - Harnessing the Data Revolution
 
-##### Why
+@ulend
+@snapend
+---
+
+##### Why slides
 - FAIR Data Principles
 - Shared Analyses
 
-##### How
+##### How slides
 - Discovery Environment
 - Integrating your own tools
 
@@ -33,3 +47,57 @@
 
 ---
 
+---?color=linear-gradient(80deg, white 30%, #567AD2 50%)
+
+@snap[north-east span-50]
+@fa[quote-graphql font-montserrat text-black text-11](Bring your own containers)
+
+@fab[docker fa-xl] @fab[github fa-xl] @fab[gitlab fa-xl]
+
+@fab[linux fa-lg] @fab[ubuntu fa-lg] @fab[centos fa-lg] @fab[suse fa-lg] @fab[redhat fa-lg] @fab[fedora fa-lg]
+@snapend
+
+@fab[python fa-lg] @fab[r-project fa-lg] @fab[html5 fa-lg]
+
+@snap[east span-33 fragment]
+@box[bg-green font-montserrat text-white text-09 rounded box-padding](Autobuilds # Host on GitHub|Lab)
+@snapend
+
+@snap[south-east span-33 fragment]
+@box[bg-orange font-montserrat text-white text-09 rounded box-padding](Hosted # Pull from Docker Registries )
+@snapend
+
+@snap[north-west span-33 fragment]
+@fa[quote-graphql font-montserrat text-black text-11](Use an existing image)
+@fab[windows fa-lg]
+@snapend
+
+@snap[west span-50 fragment]
+<img src="https://learning.cyverse.org/projects/vice/en/latest/_images/flow_new.png" height="400">
+@snapend
+
+@snap[south-west span-50 fragment]
+@fa[quote-graphql font-montserrat text-black text-11](Select from our base images)
+@snapend
+
+---
+
+
+---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
+@snap[north text-white]
+Next Time ...
+@snapend
+
+@snap[south text-white]
+Peer Review
+@snapend
+
++++
+
+## Acknowledgments
+
+GIFs by Giphy.com
+
+All digital images shown this presentation are available online and are the property of their creators, their web addresses are visible in the source code of this presentation at: https://github.com/tyson-swetnam/cyverse-tugraz/PITCHME.md 
+
+---?image=assets/imagery/endslide.png
