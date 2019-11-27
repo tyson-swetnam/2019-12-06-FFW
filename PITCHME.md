@@ -112,18 +112,19 @@
 @snapend 
 
 @snap[north-east span-33 fragment]
-@box[bg-green font-montserrat text-white text-09 rounded box-padding](Autobuild #  @fab[github fa-2x] @fab[gitlab fa-2x])
+@box[bg-green font-montserrat text-white text-09 rounded box-padding](Autobuild #  @fab[github fa-2x] @fab[gitlab fa-3x])
 @snapend
 
 @snap[east span-33 fragment]
-@box[bg-orange font-montserrat text-white text-09 rounded box-padding](Host # @fab[docker fa-2x])
+@box[bg-orange font-montserrat text-white text-09 rounded box-padding](Host # @fab[docker fa-3x])
 @snapend
 
 @snap[south-east span-33 fragment]
-@box[bg-purple font-montserrat text-white text-09 rounded box-padding](Integrate # @img[](/assets/imagery/cyverse_white_globe.png))
+@box[bg-purple font-montserrat text-white text-09 rounded box-padding](Integrate # @fab[python fa-3x] @fab[r-project fa-3x] @fab[html5 fa-3x])
+@img[](/assets/imagery/cyverse_white_globe.png)
 @snapend
 
-@snap[south-west span-66 fragment]
+@snap[west span-75 fragment]
 ![GRAPHQL](/assets/imagery/vice_docker_workflow.png)
 @snapend
 
