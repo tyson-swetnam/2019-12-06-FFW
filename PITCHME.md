@@ -67,20 +67,20 @@
 @fa[quote-graphql font-montserrat text-white text-11](Terminology)
 @snapend
 
-@snap[west span-50 fragment]
-@box[bg-orange font-montserrat text-white text-11 rounded box-padding](Tool # container, can do one or many things)
+@snap[west span-45 fragment]
+@box[bg-orange font-montserrat text-white text-09 rounded box-padding](Tool # container, does one or many things)
 @snapend
 
-@snap[north-east span-50 fragment]
-@box[bg-blue font-montserrat text-white text-09 rounded box-padding](OSG # high throughput jobs)
+@snap[north-east span-45 fragment]
+@box[bg-blue font-montserrat text-white text-09 rounded box-padding](OSG # high throughput computing)
 @snapend
 
-@snap[east span-50 fragment]
-@box[bg-purple font-montserrat text-white text-09 rounded box-padding](Interactive # Graphic User Interfaces )
+@snap[east span-45 fragment]
+@box[bg-purple font-montserrat text-white text-09 rounded box-padding](Interactive # graphic user interface )
 @snapend
 
-@snap[south-east span-50 fragment]
-@box[bg-yellow font-montserrat text-white text-09 rounded box-padding](Executable  # command line job )
+@snap[south-east span-45 fragment]
+@box[bg-yellow font-montserrat text-white text-09 rounded box-padding](Executable  # uses command line )
 @snapend
 
 ---
@@ -89,20 +89,20 @@
 @fa[quote-graphql font-montserrat text-white text-11](Terminology)
 @snapend
 
-@snap[west span-50 fragment]
-@box[bg-orange font-montserrat text-white text-11 rounded box-padding](App # a means of calling a Tool)
+@snap[west span-45 fragment]
+@box[bg-orange font-montserrat text-white text-09 rounded box-padding](App # a means of calling a *tool*)
 @snapend
 
-@snap[north-east span-50 fragment]
-@box[bg-blue font-montserrat text-white text-09 rounded box-padding](OSG  # Process data, lots of data )
+@snap[north-east span-45 fragment]
+@box[bg-blue font-montserrat text-white text-09 rounded box-padding](OSG  # Process data, lots of data)
 @snapend
 
-@snap[east span-50 fragment]
-@box[bg-purple font-montserrat text-white text-09 rounded box-padding](Interactive # Jupyter R-Studio WebGL )
+@snap[east span-45 fragment]
+@box[bg-purple font-montserrat text-white text-09 rounded box-padding](Interactive # @img[](https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png ) R-Studio WebGL)
 @snapend
 
-@snap[south-east span-50 fragment]
-@box[bg-yellow font-montserrat text-white text-09 rounded box-padding](Executable  # Process data )
+@snap[south-east span-45 fragment]
+@box[bg-yellow font-montserrat text-white text-09 rounded box-padding](Executable  # Process data)
 @snapend
 
 ---?color=linear-gradient(80deg, white, #567AD2)
