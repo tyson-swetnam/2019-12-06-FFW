@@ -10,14 +10,14 @@
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 @snap[north-west span-45]
-@fa[quote-graphql font-montserrat text-black text-14](Key Concepts)
+@fa[quote-graphql text-black text-14](Key Concepts) @fab[key fa -3x fa pulse]
 @snapend
 
 @snap[north-east]
 @img[span-33](/assets/imagery/51755745.png)
 @snapend
 
-@snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
+@snap[midpoint list-content-verbose fragment span-100 text-black text-14]
 @ul
 - Data Science Workbench
 - Containers
