@@ -60,7 +60,7 @@
 ---?color=linear-gradient(80deg, white 30%, #567AD2 50%)
 
 @snap[north-east span-50]
-@fa[quote-graphql font-montserrat text-black text-11](Bring your own containers) @fab[linux fa-lg]
+@fa[quote-graphql font-montserrat text-black text-11](Bring your own containers @fab[linux fa-lg])
 @snapend 
 
 @snap[east span-33 fragment]
@@ -76,12 +76,8 @@
 @fab[python fa-xs] @fab[r-project fa-xs] @fab[html5 fa-xs]
 @snapend
 
-@snap[west span-50 fragment]
-<img src="https://learning.cyverse.org/projects/vice/en/latest/_images/flow_new.png" height="400">
-@snapend
-
 @snap[south-west span-50 fragment]
-@fa[quote-graphql font-montserrat text-black text-11](Select from our base images)
+![GRAPHQL](/assets/imagery/vice_docker_workflow.png)
 @snapend
 
 ---
