@@ -60,23 +60,20 @@
 ---?color=linear-gradient(80deg, white 30%, #567AD2 50%)
 
 @snap[north-east span-50]
-@fa[quote-graphql font-montserrat text-black text-11](Bring your own containers)
-@fab[docker fa-xl] @fab[github fa-xl] @fab[gitlab fa-lg]
-@fab[linux fa-lg] @fab[ubuntu fa-xs] @fab[centos fa-xs] @fab[suse fa-xs] @fab[redhat fa-xs] @fab[fedora fa-xs]
-@fab[python fa-xs] @fab[r-project fa-xs] @fab[html5 fa-xs]
+@fa[quote-graphql font-montserrat text-black text-11](Bring your own containers) @fab[linux fa-lg]
 @snapend 
 
 @snap[east span-33 fragment]
-@box[bg-green font-montserrat text-white text-09 rounded box-padding](Autobuilds # Host on GitHub|Lab)
+@box[bg-green font-montserrat text-white text-09 rounded box-padding](Autobuild #  @fab[github fa-lg] @fab[gitlab fa-lg])
 @snapend
 
 @snap[south-east span-33 fragment]
-@box[bg-orange font-montserrat text-white text-09 rounded box-padding](Hosted # Pull from Docker Registries )
+@box[bg-orange font-montserrat text-white text-09 rounded box-padding](Host # @fab[docker fa-lg])
 @snapend
 
 @snap[north-west span-33 fragment]
 @fa[quote-graphql font-montserrat text-black text-11](Use an existing image)
-@fab[windows fa-lg]
+@fab[python fa-xs] @fab[r-project fa-xs] @fab[html5 fa-xs]
 @snapend
 
 @snap[west span-50 fragment]
