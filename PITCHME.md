@@ -23,7 +23,7 @@
 
 --- 
 
-@snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
+@snap[midpoint list-content-verbose fragment span-100 font-montserrat text-white text-09]
 
 ##### What slides
 
@@ -35,7 +35,7 @@
 
 ---
 
-@snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
+@snap[midpoint list-content-verbose fragment span-100 font-montserrat text-white text-09]
 
 ##### Why slides
 
@@ -47,7 +47,7 @@
 
 ---
 
-@snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
+@snap[midpoint list-content-verbose fragment span-100 font-montserrat text-white text-09]
 
 ##### How slides
 
