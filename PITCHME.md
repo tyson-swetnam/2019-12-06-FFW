@@ -14,7 +14,7 @@
 @snapend
 
 @snap[north-east span-45]
-![GRAPHQL](/assets/imagery/51755745.png height=100)
+![GRAPHQL](/assets/imagery/51755745.png&size=50%)
 @snapend
 
 @snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
