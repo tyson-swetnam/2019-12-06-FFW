@@ -13,20 +13,21 @@
 @fa[quote-graphql font-montserrat text-black text-14](Key Concepts)
 @snapend
 
-@snap[midpoint list-content-verbose span-100 font-montserrat text-black text-09]
+@snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
 @ul
 
-What 
+##### What 
 - Data Intensive Science
 - Harnessing the Data Revolution
 
-Why
+##### Why
 - FAIR Data Principles
 - Shared Analyses
 
-How
+##### How
 - Discovery Environment
 - Integrating your own tools
+
 @ulend
 @snapend
 
