@@ -9,9 +9,14 @@
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
-@snap[north]
+@snap[north-west span-45]
 @fa[quote-graphql font-montserrat text-black text-14](Key Concepts)
 @snapend
+
+@snap[north-east span-45]
+![GRAPHQL](/assets/imagery/51755745.png)
+@snapend
+
 @snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
 @ul
 - Introduction to the Discovery Environment Data Science Workbench
