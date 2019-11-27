@@ -98,7 +98,7 @@
 @snapend
 
 @snap[east span-45 fragment]
-@box[bg-purple font-montserrat text-white text-09 rounded box-padding](Interactive # @img[](https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png ) R-Studio WebGL)
+@box[bg-purple font-montserrat text-white text-09 rounded box-padding](Interactive # Jupyter R-Studio WebGL)
 @snapend
 
 @snap[south-east span-45 fragment]
