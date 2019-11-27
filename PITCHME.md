@@ -64,7 +64,8 @@
 ---
 
 @snap[north-west span-50]
-@fa[quote-graphql font-montserrat text-black text-11](Terminology)
+@fa[quote-graphql font-montserrat text-white text-11](Terminology)
+@snapend
 
 @snap[west span-50 fragment]
 @box[bg-red font-montserrat text-white text-09 rounded box-padding](Tool # container, can do one or many things)
@@ -85,7 +86,8 @@
 ---
 
 @snap[north-west span-50]
-@fa[quote-graphql font-montserrat text-black text-11](Terminology)
+@fa[quote-graphql font-montserrat text-white text-11](Terminology)
+@snapend
 
 @snap[west span-50 fragment]
 @box[bg-red font-montserrat text-white text-09 rounded box-padding](App # a means of calling a Tool)
