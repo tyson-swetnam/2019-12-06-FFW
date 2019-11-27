@@ -68,11 +68,11 @@
 @snapend
 
 @snap[west span-50 fragment]
-@box[bg-red font-montserrat text-white text-09 rounded box-padding](Tool # container, can do one or many things)
+@box[bg-orange font-montserrat text-white text-11 rounded box-padding](Tool # container, can do one or many things)
 @snapend
 
 @snap[north-east span-50 fragment]
-@box[bg-red font-montserrat text-white text-09 rounded box-padding](OSG # high throughput jobs)
+@box[bg-blue font-montserrat text-white text-09 rounded box-padding](OSG # high throughput jobs)
 @snapend
 
 @snap[east span-50 fragment]
@@ -90,7 +90,11 @@
 @snapend
 
 @snap[west span-50 fragment]
-@box[bg-red font-montserrat text-white text-09 rounded box-padding](App # a means of calling a Tool)
+@box[bg-orange font-montserrat text-white text-11 rounded box-padding](App # a means of calling a Tool)
+@snapend
+
+@snap[north-east span-50 fragment]
+@box[bg-blue font-montserrat text-white text-09 rounded box-padding](OSG  # Process data, lots of data )
 @snapend
 
 @snap[east span-50 fragment]
@@ -98,7 +102,7 @@
 @snapend
 
 @snap[south-east span-50 fragment]
-@box[bg-yellow font-montserrat text-white text-09 rounded box-padding](Executable  # Process data, lots of data )
+@box[bg-yellow font-montserrat text-white text-09 rounded box-padding](Executable  # Process data )
 @snapend
 
 ---?color=linear-gradient(80deg, white, #567AD2)
