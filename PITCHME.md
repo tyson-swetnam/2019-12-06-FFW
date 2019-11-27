@@ -59,9 +59,49 @@
 
 ---
 
+## Navigating the DE
+
+---
+
+@snap[north-west span-50]
+@fa[quote-graphql font-montserrat text-black text-11](Terminology)
+
+@snap[west span-50 fragment]
+@box[bg-red font-montserrat text-white text-09 rounded box-padding](Tool # container, can do one or many things)
+@snapend
+
+@snap[north-east span-50 fragment]
+@box[bg-red font-montserrat text-white text-09 rounded box-padding](OSG # high throughput jobs)
+@snapend
+
+@snap[east span-50 fragment]
+@box[bg-purple font-montserrat text-white text-09 rounded box-padding](Interactive # Graphic User Interfaces )
+@snapend
+
+@snap[south-east span-50 fragment]
+@box[bg-yellow font-montserrat text-white text-09 rounded box-padding](Executable  # command line job )
+@snapend
+
+---
+
+@snap[north-west span-50]
+@fa[quote-graphql font-montserrat text-black text-11](Terminology)
+
+@snap[west span-50 fragment]
+@box[bg-red font-montserrat text-white text-09 rounded box-padding](App # a means of calling a Tool)
+@snapend
+
+@snap[east span-50 fragment]
+@box[bg-purple font-montserrat text-white text-09 rounded box-padding](Interactive # Jupyter R-Studio WebGL )
+@snapend
+
+@snap[south-east span-50 fragment]
+@box[bg-yellow font-montserrat text-white text-09 rounded box-padding](Executable  # Process data, lots of data )
+@snapend
+
 ---?color=linear-gradient(80deg, white, #567AD2)
 
-@snap[north-east span-33]
+@snap[north-east span-50]
 @fa[quote-graphql font-montserrat text-black text-11](Bring your own)
 @snapend 
 
@@ -73,12 +113,11 @@
 @box[bg-orange font-montserrat text-white text-09 rounded box-padding](Host # @fab[docker fa-lg])
 @snapend
 
-@snap[north-west span-33 fragment]
-@fa[quote-graphql font-montserrat text-black text-11](Use Base Image)
-@fab[python fa-xs] @fab[r-project fa-xs] @fab[html5 fa-xs]
+@snap[north-west span-50 fragment]
+@fa[quote-graphql font-montserrat text-black text-11](Use Base Images)
 @snapend
 
-@snap[west span-66 fragment]
+@snap[south-west span-66 fragment]
 ![GRAPHQL](/assets/imagery/vice_docker_workflow.png)
 @snapend
 
