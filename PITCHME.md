@@ -2,7 +2,7 @@
 
 @snap[north span-100 text-center]
 ![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
-@fa[quote-graphql font-montserrat text-white text-11](Building Your Favorite Software and Environments in the VICE Workbench) 
+@fa[quote-graphql font-montserrat text-white text-11](Bring Your Favorite Software and Environments to the VICE Workbench) 
 @fa[quote-graphql font-montserrat text-white text-09](December 06, 2019)
 @fa[quote-graphql font-montserrat text-white text-09](Tyson L. Swetnam) 
 @snapend 
@@ -24,43 +24,45 @@
 --- 
 
 @snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
-@ul
 
 ##### What slides
+
+@ul
 - Data Intensive Science
 - Harnessing the Data Revolution
-
 @ulend
 @snapend
 
 ---
 
 @snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
-@ul
+
 ##### Why slides
+
+@ul
 - FAIR Data Principles
 - Shared Analyses
-
 @ulend
 @snapend
 
 ---
 
 @snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
-@ul
-##### How slides
-- Discovery Environment
-- Integrating your own tools
 
+##### How slides
+
+@ul
+- Navigating the Discovery Environment
+- Integrating your own tools
 @ulend
 @snapend
 
 ---
 
----?color=linear-gradient(80deg, white 30%, #567AD2 50%)
+---?color=linear-gradient(80deg, white, #567AD2)
 
-@snap[north-east span-50]
-@fa[quote-graphql font-montserrat text-black text-11](Bring your own containers @fab[linux fa-lg])
+@snap[north-east span-33]
+@fa[quote-graphql font-montserrat text-black text-11](Bring your own)
 @snapend 
 
 @snap[east span-33 fragment]
@@ -72,11 +74,11 @@
 @snapend
 
 @snap[north-west span-33 fragment]
-@fa[quote-graphql font-montserrat text-black text-11](Use an existing image)
+@fa[quote-graphql font-montserrat text-black text-11](Use Base Image)
 @fab[python fa-xs] @fab[r-project fa-xs] @fab[html5 fa-xs]
 @snapend
 
-@snap[south-west span-50 fragment]
+@snap[west span-66 fragment]
 ![GRAPHQL](/assets/imagery/vice_docker_workflow.png)
 @snapend
 
