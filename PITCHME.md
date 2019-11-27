@@ -90,7 +90,7 @@
 @snapend
 
 @snap[west span-45 fragment]
-@box[bg-orange font-montserrat text-white text-09 rounded box-padding](App # a means of calling a *tool*)
+@box[bg-orange font-montserrat text-white text-09 rounded box-padding](App # a means of calling a **tool**)
 @snapend
 
 @snap[north-east span-45 fragment]
