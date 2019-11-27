@@ -13,8 +13,8 @@
 @fa[quote-graphql font-montserrat text-black text-14](Key Concepts)
 @snapend
 
-@snap[north-east span-45]
-![GRAPHQL](/assets/imagery/51755745.png&size=50%)
+@snap[north-east]
+@img[span-33](/assets/imagery/51755745.png)
 @snapend
 
 @snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
