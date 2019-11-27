@@ -9,8 +9,8 @@
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
-@snap[north-west span-45]
-@fa[key shocking-pink](Key Concepts)
+@snap[north-west span-45 text-black]
+@fa[key](Key Concepts)
 @snapend
 
 @snap[north-east]
