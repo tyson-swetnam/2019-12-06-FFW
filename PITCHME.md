@@ -19,10 +19,9 @@
 
 @snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
 @ul
-- Introduction to the Discovery Environment Data Science Workbench
-- Bring your own data
-- Bring your own containers
-- Sharing and publishing your research objects
+- Data Science Workbench
+- Containers
+- Interactive vs Executable
 @ulend
 @snapend
 
