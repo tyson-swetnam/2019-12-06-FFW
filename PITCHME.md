@@ -10,7 +10,7 @@
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 @snap[north-west span-45]
-@fa[quote-graphql text-black text-14](Key Concepts) @fab[key fa -3x fa pulse]
+@fa[quote-graphql text-black text-14](Key Concepts) @fa[key fa-3x fa-pulse fa-black]
 @snapend
 
 @snap[north-east]
