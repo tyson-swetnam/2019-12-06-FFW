@@ -124,7 +124,7 @@
 @img[](/assets/imagery/cyverse_white_globe.png)
 @snapend
 
-@snap[west span-75 fragment]
+@snap[west span-75 fragment align-left]
 ![GRAPHQL](/assets/imagery/vice_docker_workflow.png)
 @snapend
 
