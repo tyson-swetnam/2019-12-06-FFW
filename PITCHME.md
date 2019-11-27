@@ -1,4 +1,4 @@
----?video=https://data.cyverse.org/dav-anon/iplant/home/tswetnam/train_to_graz.mp4
+---?video=
 
 @snap[north span-100 text-center]
 ![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
@@ -14,7 +14,7 @@
 @snapend
 @snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
 @ul
-- Data Science Workbenches
+- Introduction to the Discovery Environment Data Science Workbench
 - Bring your own data
 - Bring your own containers
 - Sharing and publishing your research objects
@@ -32,12 +32,22 @@
 
 @ulend
 @snapend
+
 ---
 
+@snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
+@ul
 ##### Why slides
 - FAIR Data Principles
 - Shared Analyses
 
+@ulend
+@snapend
+
+---
+
+@snap[midpoint list-content-verbose fragment span-100 font-montserrat text-black text-09]
+@ul
 ##### How slides
 - Discovery Environment
 - Integrating your own tools
@@ -51,13 +61,10 @@
 
 @snap[north-east span-50]
 @fa[quote-graphql font-montserrat text-black text-11](Bring your own containers)
-
-@fab[docker fa-xl] @fab[github fa-xl] @fab[gitlab fa-xl]
-
-@fab[linux fa-lg] @fab[ubuntu fa-lg] @fab[centos fa-lg] @fab[suse fa-lg] @fab[redhat fa-lg] @fab[fedora fa-lg]
-@snapend
-
-@fab[python fa-lg] @fab[r-project fa-lg] @fab[html5 fa-lg]
+@fab[docker fa-xl] @fab[github fa-xl] @fab[gitlab fa-lg]
+@fab[linux fa-lg] @fab[ubuntu fa-xs] @fab[centos fa-xs] @fab[suse fa-xs] @fab[redhat fa-xs] @fab[fedora fa-xs]
+@fab[python fa-xs] @fab[r-project fa-xs] @fab[html5 fa-xs]
+@snapend 
 
 @snap[east span-33 fragment]
 @box[bg-green font-montserrat text-white text-09 rounded box-padding](Autobuilds # Host on GitHub|Lab)
