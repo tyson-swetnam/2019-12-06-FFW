@@ -121,7 +121,6 @@
 
 @snap[south-east span-33 fragment]
 @box[bg-purple font-montserrat text-white text-09 rounded box-padding](Integrate # @fab[python fa-3x] @fab[r-project fa-3x] @fab[html5 fa-3x])
-@img[](/assets/imagery/cyverse_white_globe.png)
 @snapend
 
 @snap[west span-75 fragment align-left]
