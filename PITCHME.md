@@ -108,19 +108,19 @@
 ---?color=linear-gradient(80deg, white, #567AD2)
 
 @snap[north-east span-50]
-@fa[quote-graphql font-montserrat text-black text-11](Bring your own)
+@fa[quote-graphql font-montserrat text-black text-11](Bring your own tools)
 @snapend 
 
-@snap[east span-33 fragment]
+@snap[north-east span-33 fragment]
 @box[bg-green font-montserrat text-white text-09 rounded box-padding](Autobuild #  @fab[github fa-lg] @fab[gitlab fa-lg])
 @snapend
 
-@snap[south-east span-33 fragment]
+@snap[east span-33 fragment]
 @box[bg-orange font-montserrat text-white text-09 rounded box-padding](Host # @fab[docker fa-lg])
 @snapend
 
-@snap[north-west span-50 fragment]
-@fa[quote-graphql font-montserrat text-black text-11](Use Base Images)
+@snap[east span-33 fragment]
+@box[bg-purple font-montserrat text-white text-09 rounded box-padding](Integrate # @img[](/assets/imagery/cyverse_white_globe.png))
 @snapend
 
 @snap[south-west span-66 fragment]
