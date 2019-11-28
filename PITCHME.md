@@ -9,7 +9,7 @@
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
-@snap[north-west span-45 text-black]
+@snap[north-west span-45 text-black text-14]
 @fa[key](Key Concepts)
 @snapend
 
@@ -17,12 +17,18 @@
 @img[span-33](/assets/imagery/51755745.png)
 @snapend
 
-@snap[midpoint list-content-verbose fragment span-100 text-black text-14]
-@ul
-- Data Science Workbench
-- Containers
-- Interactive vs Executable
-@ulend
+@snap[west span-33 fragment]
+@box[bg-orange font-montserrat text-white text-09 rounded box-padding](Discovery Environment # Data Science Workbench)
+@snapend
+
+@snap[midpoint span-33 fragment]
+@box[bg-gray font-montserrat text-white text-09 rounded box-padding](Docker # Containerized Apps)
+@snapend
+
+@snap[east span-33 fragment]
+@box[bg-blue font-montserrat text-white text-09 rounded box-padding](Tools # Interactive vs Executable)
+@snapend
+
 @snapend
 
 --- 
