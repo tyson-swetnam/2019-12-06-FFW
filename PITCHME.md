@@ -134,16 +134,16 @@ Navigating the Discovery Environment
 @fa[quote-graphql font-montserrat text-white text-11](Building a Tool )
 @snapend 
 
-@snap[north-east span-33 fragment]
-@box[bg-green font-montserrat text-white text-09 rounded box-padding](Autobuilt #  @fab[github fa-2x] @fab[gitlab fa-3x])
+@snap[north-east span-33]
+@box[bg-green font-montserrat text-white text-09 rounded box-padding](Continuous Integration @fab[sync fa-sm] # @fab[github fa-2x fa-spin] @fab[gitlab fa-2x fa-spin])
 @snapend
 
-@snap[east span-33 fragment]
+@snap[east span-33]
 @box[bg-orange font-montserrat text-white text-09 rounded box-padding](Hosted # @fab[docker fa-3x])
 @snapend
 
-@snap[south-east span-33 fragment]
-@box[bg-purple font-montserrat text-white text-09 rounded box-padding](Certified @fab[docker fa-sm] # @fab[python fa-3x] @fab[r-project fa-3x] @fab[html5 fa-3x])
+@snap[south-east span-33]
+@box[bg-purple font-montserrat text-white text-09 rounded box-padding](Certified @fab[check-square fa-sm] # @fab[python fa-3x] @fab[r-project fa-3x] @fab[html5 fa-3x])
 @snapend
 
 @snap[west span-66 fragment]
