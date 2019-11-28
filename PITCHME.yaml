@@ -13,10 +13,7 @@ theme-headline   : [ "montserrat", "#ffffff", "none" ]
 theme-byline     : [ "montserrat", "#ffffff", "none" ]
 theme-text       : [ "montserrat", "#ffffff", "transform" ]
 theme-links      : [ "#5289F7", "#5254F7" ]
-theme-code       : [ "Victor Mono" ]
 theme-controls   : [ "#484848" ]
 theme-margins    : [ "0", "15px" ]
 
 charts: true
-
-.shocking-pink { color : #fc0fc0; }
