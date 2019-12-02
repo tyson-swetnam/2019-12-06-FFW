@@ -72,7 +72,7 @@ Four Key @fa[key] Concepts Today
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
-@snap[north-west span-30 text-black]
+@snap[north-west span-25 text-black]
 @img[](http://pluspng.com/img-png/png-slice-of-cake--1326.png)
 @snapend
 
@@ -200,9 +200,16 @@ Project Jupyter
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
-@snap[north-west span-50]
-Navigating the Discovery Environment
-[@img[](/assets/imagery/de_white.png)](https://de.cyverse.org)
+@snap[north-west span-45]
+Navigating the Discovery Environment 
+@snapend
+
+@snap[north span-30]
+[@img[text-center span-40](/assets/imagery/de_white.png)](https://de.cyverse.org)
+@snapend
+
+@snap[west span-66]
+[@img[](assets/imagery/de.png)](https://de.cyverse.org)
 @snapend
 
 @snap[north-east span-33]
@@ -215,6 +222,10 @@ Navigating the Discovery Environment
 
 @snap[south-east span-33]
 @box[bg-yellow font-montserrat text-white text-09 rounded box-padding](Analyses  # Running & Completed Jobs )
+@snapend
+
+@snap[south span-30 text-09 text-montserrat fragment]
+@box[bg-gray font-montserrat text-white text-09 rounded box-padding](Chat # user support @fab[intercom fa-lg])
 @snapend
 
 ---?color=linear-gradient(80deg, black, #567AD2)
@@ -235,7 +246,7 @@ Navigating the Discovery Environment
 @box[bg-purple font-montserrat text-white text-09 rounded box-padding](Certified ✓ # [@fab[python fa-3x]](https://hub.docker.com/u/jupyter) [@fab[r-project fa-3x]](https://hub.docker.com/u/rocker) [@fab[html5 fa-3x]]())
 @snapend
 
-@snap[west span-66 fragment]
+@snap[west span-70 fragment]
 [@img[](/assets/imagery/vice_docker_workflow.png)](https://learning.cyverse.org/projects/vice/en/latest/developer_guide/workflow.html)
 @snapend
 
@@ -265,7 +276,16 @@ Integrate your own @fab[docker] tools
 @snapend
 
 @snap[east span-66 fragment]
-![GRAPHQL](/assets/imagery/edit_ports.png)
+![GRAPHQL](/assets/imagery/edit_tool.png)
+@snapend
+
+@snap[south-west span-35 text-center text-07 fragment]
+> Container Image 
+> Bring any from @fab[docker fab-lg] !
+@snapend
+
+@snap[south-east span-55 text-07 fragment]
+> _**IMPORTANT**_: must set the port # entrypoint, UID, working directory
 @snapend
 
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
