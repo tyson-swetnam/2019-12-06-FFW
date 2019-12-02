@@ -54,30 +54,16 @@ Four Key @fa[key] Concepts Today
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
-@snap[north-west span-25 text-black]
+@snap[north-west span-25]
 @img[](http://pluspng.com/img-png/png-slice-of-cake--1326.png)
 @snapend
 
-@snap[west span-33 text-white text-right font-montserrat text-09]
-@ul
-- Log into Discovery  Environment
-- Search for your favorite Apps
-- Start Jupyter Lab
-@ulend
-@snapend
-
-@snap[east span-66]
-![](assets/gifs/twitter_promo.gif)
-@snapend
-
----?color=linear-gradient(80deg, black, #567AD2)
-
-@snap[north-west span-25 text-black]
-@img[](http://pluspng.com/img-png/png-slice-of-cake--1326.png)
+@snap[west span-45 text-07 text-white text-left]
+Login → Search → Launch  
 @snapend
 
 @snap[south-west span-40 text-white font-montserrat text-09 fragment]
-@img[span-50](https://docs.irods.org/4.2.6/iRODS-Logo.png)
+@img[span-80](https://docs.irods.org/4.2.6/iRODS-Logo.png)
 @fab[github-alt fa-2x] @fab[git fa-2x] @fab[python fa-2x] @fab[r-project fa-2x] 
 @img[span-40](http://indipoint.com/slider-8.png) 
 @img[span-50](https://img.pngio.com/bash-logo-media-assets-download-bash-shell-logo-bourne-again-bash-png-1184_513.png)
@@ -217,7 +203,7 @@ Navigating the Discovery Environment
 @snapend
 
 @snap[east span-33]
-@box[bg-purple font-montserrat text-white text-09 rounded box-padding](Apps # Find and Start )
+@box[bg-purple font-montserrat text-white text-09 rounded box-padding](Apps # Find & Start or Add & Edit)
 @snapend
 
 @snap[south-east span-33]
