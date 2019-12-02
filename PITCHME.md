@@ -8,8 +8,6 @@
 @fa[quote-graphql font-montserrat text-white text-09](Tyson L. Swetnam) 
 @snapend 
 
----?image=/assets/imagery/cyverse_vice.jpg
-
 ---?color=linear-gradient(80deg, black, #567AD2)
 
 @snap[north-west span-100 text-white text-14]
@@ -100,7 +98,7 @@ Pro(?): integrated, easily scaled to GCP
 ---?color=linear-gradient(80deg, black, #567AD2) 
 
 @snap[north-west span-50 text-white text-center]
-Why use CyVerse VICE
+Why use interactive Apps?
 @img[span-33](/assets/imagery/51755745.png)
 @snapend
 
@@ -274,20 +272,14 @@ Integrate your own @fab[docker] tools
 > _**IMPORTANT**_: must set the port # entrypoint, UID, working directory
 @snapend
 
----?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
-@snap[north text-white]
-Next Time ...
-@snapend
+---?color=linear-gradient(80deg, black, #567AD2)
 
-@snap[south text-white]
-Peer Review
-@snapend
+# LIVE DEMO
 
-+++
+
+---?color=linear-gradient(80deg, black, #567AD2)
 
 ## Acknowledgments
-
-GIFs by Giphy.com
 
 All images shown this presentation are available online and are the property of their creators. Their web addresses are visible in the source code of this presentation at: https://github.com/tyson-swetnam/2019-12-06-FFW/PITCHME.md 
 
@@ -295,7 +287,7 @@ All images shown this presentation are available online and are the property of 
 
 CyVerse is funded entirely by the National Science Foundation under Award Numbers [DBI-0735191](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0735191), [DBI-1265383](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1265383), and [DBI-1743442](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743442&HistoricalAwards=false).
 
-@snap[south span-33]
+@snap[south span-45]
 @img[span-50](https://phoenixmed.arizona.edu/sites/default/files/campus/marcomm/brand/master-logo/1-ua-vertical/ua_stack_rgb_4.png)
 @snapend
 
