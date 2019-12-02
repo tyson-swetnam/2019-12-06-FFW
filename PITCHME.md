@@ -218,7 +218,7 @@ Navigating the Discovery Environment
 ---?color=linear-gradient(80deg, black, #567AD2)
 
 @snap[north-west span-50]
-@fa[quote-graphql font-montserrat text-white text-11](Building a Tool )
+@fa[quote-graphql font-montserrat text-white text-11](Building a Tool)
 @snapend 
 
 @snap[north-east span-33]
@@ -234,7 +234,7 @@ Navigating the Discovery Environment
 @snapend
 
 @snap[west span-66 fragment]
-[![GRAPHQL](/assets/imagery/vice_docker_workflow.png)](https://learning.cyverse.org/projects/vice/en/latest/developer_guide/workflow.html)
+[@img[](/assets/imagery/vice_docker_workflow.png)](https://learning.cyverse.org/projects/vice/en/latest/developer_guide/workflow.html)
 @snapend
 
 ---?color=linear-gradient(80deg, black, #567AD2)
