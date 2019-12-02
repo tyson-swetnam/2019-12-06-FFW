@@ -76,15 +76,14 @@ Four Key @fa[key] Concepts Today
 @img[](http://pluspng.com/img-png/png-slice-of-cake--1326.png)
 @snapend
 
-@snap[west span-33 text-white text-right font-montserrat text-09]
-@ul
-- Git & GitHub Widgets
-- Data Store iRODS Plugin
-- Python-3, Bash, Julia, R
-@ulend
+@snap[south-west span-40 text-white font-montserrat text-09 fragment]
+@img[span-50](https://docs.irods.org/4.2.6/iRODS-Logo.png)
+@fab[github-alt fa-2x] @fab[git fa-2x] @fab[python fa-2x] @fab[r-project fa-2x] 
+@img[span-40](http://indipoint.com/slider-8.png) 
+@img[span-50](https://img.pngio.com/bash-logo-media-assets-download-bash-shell-logo-bourne-again-bash-png-1184_513.png)
 @snapend
 
-@snap[east span-66]
+@snap[east tex-right span-66]
 ![](assets/gifs/twitter_promo.gif)
 @snapend
 
@@ -96,23 +95,25 @@ Four Key @fa[key] Concepts Today
 [@img[](https://dimensionless.in/wp-content/uploads/2019/03/colab_cover.png)](https://colab.research.google.com/)
 @snapend
 
-@snap[north-east span-45 text-white fragment]
+@snap[north-east span-45 text-09 text-center text-white fragment]
 ## _Yes_ - _**but**_
 Cons:
 @ul
 - MyBinder needs hardware hosting _currently on Google Cloud Platform_
-- Run on small VMs 
+- Small VMs 
 - Time limited
+- Access limited 
 @ulend
 @snapend
 
-@snap[south span-100 text-white fragment]
-Pro(?): can be scaled onto GCP (all major credit cards accepted)
+@snap[south span-100 text-white text-09 fragment]
+Pro(?): integrated, easily scaled to GCP 
+(@fab[cc-visa fa-sm] @fab[cc-mastercard fa-sm] _accepted_)
 @snapend
 
 ---?color=linear-gradient(80deg, black, #567AD2) 
 
-@snap[north-west span-50 text-white]
+@snap[north-west span-50 text-white text-center]
 Why use CyVerse VICE
 @img[span-33](/assets/imagery/51755745.png)
 @snapend
@@ -122,6 +123,7 @@ Why use CyVerse VICE
 - Runs on Internet2 
 - Direct connection to XSEDE & OSG
 - Connected to CyVerse Data Store
+- Privacy, Security, Sharability
 @ul
 @ulend
 
@@ -266,9 +268,6 @@ Integrate your own @fab[docker] tools
 ![GRAPHQL](/assets/imagery/edit_ports.png)
 @snapend
 
-
---- 
-
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
 @snap[north text-white]
 Next Time ...
@@ -285,5 +284,25 @@ Peer Review
 GIFs by Giphy.com
 
 All images shown this presentation are available online and are the property of their creators. Their web addresses are visible in the source code of this presentation at: https://github.com/tyson-swetnam/2019-12-06-FFW/PITCHME.md 
+
+---?color=linear-gradient(80deg, black, #567AD2)
+
+CyVerse is funded entirely by the National Science Foundation under Award Numbers [DBI-0735191](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0735191), [DBI-1265383](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1265383), and [DBI-1743442](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743442&HistoricalAwards=false).
+
+@snap[south span-33]
+@img[span-50](https://phoenixmed.arizona.edu/sites/default/files/campus/marcomm/brand/master-logo/1-ua-vertical/ua_stack_rgb_4.png)
+@snapend
+
+@snap[north span-33]
+@img[span-50](https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png)
+@snapend
+
+@snap[south-west span-33]
+@img[](https://www.tacc.utexas.edu/documents/1084364/1275944/tacc.png)
+@snapend
+
+@snap[south-east span-33]
+@img[span-100](https://www.cshl.edu/wp-content/uploads/2018/07/cshl_logo_alternate-RGB_KO.png)
+@snapend
 
 ---?image=assets/imagery/endslide.png
