@@ -1,7 +1,7 @@
 ---?video=
 
 @snap[north span-100 text-center]
-[@img[span-100](/assets/imagery/cli_logo_white .svg)](https://learning.cyverse.org)
+[@img[span-100](/assets/imagery/cli_logo_white.svg)](https://learning.cyverse.org)
 [@fa[quote-graphql font-montserrat text-blue text-09](Focus Forum Webinar)](https://cyverse.org/webinar-build-your-favorite-software-and-environments-in-the-vice-workbench)
 @fa[quote-graphql font-montserrat text-white text-11](Bring Your Favorite Software and Environments to the VICE Workbench) 
 @fa[quote-graphql font-montserrat text-white text-09](December 06, 2019)
