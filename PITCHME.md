@@ -1,7 +1,7 @@
 ---?video=
 
 @snap[north span-100 text-center]
-[@img[span-100](/assets/imagery/cyverse_cmyk.png)](https://learning.cyverse.org)
+[@img[span-100](/assets/imagery/cli_logo_white .svg)](https://learning.cyverse.org)
 [@fa[quote-graphql font-montserrat text-blue text-09](Focus Forum Webinar)](https://cyverse.org/webinar-build-your-favorite-software-and-environments-in-the-vice-workbench)
 @fa[quote-graphql font-montserrat text-white text-11](Bring Your Favorite Software and Environments to the VICE Workbench) 
 @fa[quote-graphql font-montserrat text-white text-09](December 06, 2019)
@@ -23,11 +23,11 @@ Four Key @fa[key] Concepts Today
 @snapend
 
 @snap[midpoint span-33 fragment]
-@box[bg-gray font-montserrat text-white text-11 rounded box-padding]([@fab[docker fa-lg] Docker # Containerized Tools](https://hub.docker.com))
+@box[bg-gray font-montserrat text-white text-11 rounded box-padding](Tools # [@fab[docker fa-lg] Docker Containers](https://hub.docker.com))
 @snapend
 
 @snap[east span-33 fragment]
-@box[bg-blue font-montserrat text-white text-11 rounded box-padding](Containers # Interactive vs Executable)
+@box[bg-blue font-montserrat text-white text-11 rounded box-padding]([Applications # Executable vs Interactive](https://learning.cyverse.org/en/latest/tools_and_apps.html))
 @snapend
 
 @snap[south span-40 fragment]
@@ -52,7 +52,7 @@ Four Key @fa[key] Concepts Today
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
-@snap[north-west span-25]
+@snap[north-west span-25 text-04]
 @img[](http://pluspng.com/img-png/png-slice-of-cake--1326.png)
 @snapend
 
@@ -61,29 +61,30 @@ Login → Search → Launch
 @snapend
 
 @snap[south-west span-40 text-white font-montserrat text-09 fragment]
-@img[span-80](https://docs.irods.org/4.2.6/iRODS-Logo.png)
-@fab[github-alt fa-2x] @fab[git fa-2x] @fab[python fa-2x] @fab[r-project fa-2x] 
-@img[span-40](http://indipoint.com/slider-8.png) 
-@img[span-50](https://img.pngio.com/bash-logo-media-assets-download-bash-shell-logo-bourne-again-bash-png-1184_513.png)
+[@img[span-80](https://docs.irods.org/4.2.6/iRODS-Logo.png)](https://irods.org/ )
+[@fab[github-alt fa-2x] @fab[git fa-2x] @fab[python fa-2x] @fab[r-project fa-2x]](https://github.com/jupyter-widgets) 
+[@img[span-40](http://indipoint.com/slider-8.png) 
+@img[span-50](https://img.pngio.com/bash-logo-media-assets-download-bash-shell-logo-bourne-again-bash-png-1184_513.png)](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 @snapend
-
+ 
 @snap[east tex-right span-66]
-![](assets/gifs/twitter_promo.gif)
+[@img[](assets/gifs/twitter_promo.gif)](https://de.cyverse.org/de/)
 @snapend
 
 ---?color=linear-gradient(80deg, black, #567AD2) 
 
-@snap[north-west span-45 text-white]
-** Wait a minute ** - doesn't MyBinder and CoLab do this already?
-[@img[](https://miro.medium.com/max/3756/1*J2MX8CFmtTzoyiJPfZc3zA.png)](https://mybinder.org/)
-[@img[](https://dimensionless.in/wp-content/uploads/2019/03/colab_cover.png)](https://colab.research.google.com/)
+@snap[north-west span-45 text-white text-09]
+** Wait a minute ** - doesn't MyBinder, CoLab, & Azure do this already?
+[@img[span-75](https://miro.medium.com/max/3756/1*J2MX8CFmtTzoyiJPfZc3zA.png)](https://mybinder.org/)
+[@img[span-75](https://dimensionless.in/wp-content/uploads/2019/03/colab_cover.png)](https://colab.research.google.com/)
+[@img[span-75](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png)](https://notebooks.azure.com/)
 @snapend
 
-@snap[north-east span-45 text-09 text-center text-white fragment]
+@snap[north-east span-50 text-09 text-center text-white fragment]
 ## _Yes_ - _**but**_
-Cons:
+**Con**:
 @ul
-- MyBinder needs hardware hosting _currently on Google Cloud Platform_
+- Needs hardware hosting; _currently on Google Cloud Platform, Azure, or AWS_
 - Small VMs 
 - Time limited
 - Access limited 
@@ -91,7 +92,7 @@ Cons:
 @snapend
 
 @snap[south span-100 text-white text-09 fragment]
-Pro(?): integrated, easily scaled to GCP 
+**Pro**: integrated, easily scaled, GPU & TPU available
 (@fab[cc-visa fa-sm] @fab[cc-mastercard fa-sm] _accepted_)
 @snapend
 
@@ -99,17 +100,25 @@ Pro(?): integrated, easily scaled to GCP
 
 @snap[north-west span-50 text-white text-center]
 Why use interactive Apps?
-@img[span-33](/assets/imagery/51755745.png)
 @snapend
 
-@snap[north-east span-45 text-white fragment]
+@snap[west span-50]
+[@img[span-50](/assets/imagery/51755745.png)](https://learning.cyverse.org/projects/vice/en/latest/	)
+@snapend 
+
+@snap[midpoint span-50 text-11 text-white fragment]
 @ul
 - Runs on Internet2 
-- Direct connection to XSEDE & OSG
-- Connected to CyVerse Data Store
+- CyVerse Data Store
 - Privacy, Security, Sharability
-@ul
 @ulend
+@snapend
+
+@snap[east span-50 fragment]
+Connected to
+[@img[span-50](https://www.xsede.org/image/layout_set_logo?img_id=1478827&t=1574800172821)](https://www.xsede.org) 
+[@img[span-50](https://www.renci.org/wp-content/uploads/2008/10/osg_logo.png)](https://opensciencegrid.org/)
+@snapend
 
 @snap[south span-100 text-white fragment]
 <img src="https://media.giphy.com/media/916t1VsCg2qoo/giphy.gif" height="100">
@@ -219,7 +228,7 @@ Navigating the Discovery Environment
 @snapend 
 
 @snap[north-east span-33]
-@box[bg-green font-montserrat text-white text-09 rounded box-padding](Continuous Integration # [@fab[github fa-2x fa-spin]](https://github.com/cyverse-vice/))
+@box[bg-green font-montserrat text-white text-09 rounded box-padding](Continuous Integration # ![](https://www.daskeyboard.com/images/applets/circleci/icon.png =100x) [@fab[github fa-2x fa-spin]](https://github.com/cyverse-vice/))
 @snapend
 
 @snap[east span-33]
@@ -230,7 +239,7 @@ Navigating the Discovery Environment
 @box[bg-purple font-montserrat text-white text-09 rounded box-padding](Certified ✓ # [@fab[python fa-3x]](https://hub.docker.com/u/jupyter) [@fab[r-project fa-3x]](https://hub.docker.com/u/rocker) [@fab[html5 fa-3x]]())
 @snapend
 
-@snap[west span-70 fragment]
+@snap[west span-70]
 [@img[](/assets/imagery/vice_docker_workflow.png)](https://learning.cyverse.org/projects/vice/en/latest/developer_guide/workflow.html)
 @snapend
 
@@ -288,19 +297,19 @@ All images shown this presentation are available online and are the property of 
 CyVerse is funded entirely by the National Science Foundation under Award Numbers [DBI-0735191](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0735191), [DBI-1265383](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1265383), and [DBI-1743442](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743442&HistoricalAwards=false).
 
 @snap[south span-45]
-@img[span-50](https://phoenixmed.arizona.edu/sites/default/files/campus/marcomm/brand/master-logo/1-ua-vertical/ua_stack_rgb_4.png)
+[@img[span-50](https://phoenixmed.arizona.edu/sites/default/files/campus/marcomm/brand/master-logo/1-ua-vertical/ua_stack_rgb_4.png)](https://www.arizona.edu/)
 @snapend
 
 @snap[north span-33]
-@img[span-50](https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png)
+[@img[span-50](https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png)](https://www.nsf.gov/)
 @snapend
 
 @snap[south-west span-33]
-@img[](https://www.tacc.utexas.edu/documents/1084364/1275944/tacc.png)
+[@img[](https://www.tacc.utexas.edu/documents/1084364/1275944/tacc.png)](https://www.tacc.utexas.edu/)
 @snapend
 
 @snap[south-east span-33]
-@img[span-100](https://www.cshl.edu/wp-content/uploads/2018/07/cshl_logo_alternate-RGB_KO.png)
+[@img[span-100](https://www.cshl.edu/wp-content/uploads/2018/07/cshl_logo_alternate-RGB_KO.png)](https://www.cshl.edu/)
 @snapend
 
 ---?image=assets/imagery/endslide.png
